@@ -1,4 +1,3 @@
-hy, [22/12/2024 12:19 pm]
 #include <SPI.h>
 #include <MFRC522.h>
 #include <Wire.h>
