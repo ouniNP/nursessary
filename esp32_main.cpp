@@ -154,7 +154,6 @@ void controlBuzzer() {
   }
 }
 
-hy, [22/12/2024 12:53 pm]
 #include <SPI.h>
 #include <MFRC522.h>
 #include <Wire.h>
