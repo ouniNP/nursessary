@@ -305,7 +305,6 @@ void checkButton() {
   lastButtonState = buttonState;
 }
 
-hy, [22/12/2024 12:53 pm]
 void controlBuzzer() {
   unsigned long currentMillis = millis();
   if (currentMillis - lastBuzzTime >= buzzInterval) {
